@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/UttkarrshhPal](https://github.com/UttkarrshhPal)
 
 
-- 💬 Ask me about **Data Structures and Algorithms,Javascript,Django**
+- 💬 Ask me about **Data Structures and Algorithms,Javascript ,Django ,React**
 
 - 📫 How to reach me **palutkarsh1901@gmail.com**
 
