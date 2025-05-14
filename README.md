@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/UttkarrshhPal](https://github.com/UttkarrshhPal)
 
 
-- 💬 Ask me about **Data Structures and Algorithms,Javascript ,Django ,ReactJS , NodeJS , FastAPI , Docker, ExpressJS,MongoDB**
+- 💬 Ask me about **Data Structures and Algorithms,Javascript ,Django ,ReactJS , NodeJS , NextJS , FastAPI , Docker, ExpressJS,MongoDB**
 
 - 📫 How to reach me **palutkarsh1901@gmail.com**
 
