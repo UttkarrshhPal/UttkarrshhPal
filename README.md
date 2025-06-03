@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/UttkarrshhPal/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UttkarrshhPal" alt="Uttkarrs" /></a> </p>
 
-- 🌱 I’m currently learning **MLops,LLM,Computer Vision love to collaborate**
+- 🌱 I’m currently learning **GenAI , MLops,LLM,Computer Vision love to collaborate**
 
 - 👨‍💻 All of my projects are available at [https://github.com/UttkarrshhPal](https://github.com/UttkarrshhPal)
 
